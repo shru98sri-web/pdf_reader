@@ -1,0 +1,12 @@
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.env
+.env.*
+!.env.example
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.vscode/
+android/.gradle/
